@@ -39,6 +39,11 @@ const DICTIONARY = {
     }
 };
 ```
+
+# Pendente
+* Busca por Regex (Patterns)
+* Busca por string direta (UTF-8)
+
 # Warning
 Este projeto deve ser utilizado estritamente para testes de invasão autorizados e auditorias de segurança. O autor não se responsabiliza pelo uso indevido da ferramenta em sistemas de terceiros.
 
